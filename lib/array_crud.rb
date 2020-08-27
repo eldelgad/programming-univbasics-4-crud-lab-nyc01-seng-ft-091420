@@ -37,7 +37,6 @@ end
 def retrieve_element_from_index(array, index_number)
 
   index_number = array[1]
-  index_number[1]
 
 end
 
